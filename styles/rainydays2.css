@@ -270,7 +270,7 @@ width: 50px;
 /*hero*/
 aside{
     margin-top: 3vw;
-    background-image: url(/photos/kalen-emsley-UqyHjOgYxYY-unsplash.jpg);
+    background-image: url(../photos/kalen-emsley-UqyHjOgYxYY-unsplash.jpg);
     height: 150px
 }
 h1{
@@ -430,7 +430,7 @@ justify-content: center;
 /*hero*/
 aside{
     margin-top: 1vw;
-    background-image: url(/photos/kalen-emsley-UqyHjOgYxYY-unsplash.jpg);
+    background-image: url(../photos/kalen-emsley-UqyHjOgYxYY-unsplash.jpg);
     height: 150px
 }
 h1{
@@ -561,7 +561,7 @@ justify-content: center;
 /*Hero*/
 aside{
     margin-top: 1vw;
-    background-image: url(/photos/kalen-emsley-UqyHjOgYxYY-unsplash.jpg);
+    background-image: url(../photos/kalen-emsley-UqyHjOgYxYY-unsplash.jpg);
     height: 500px
 }
 h1{
